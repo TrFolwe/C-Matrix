@@ -1,0 +1,16 @@
+c:\users\gtm\documents\visual studio 2015\Projects\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\GTM\Documents\Visual Studio 2015\Projects\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\GTM\Documents\Visual Studio 2015\Projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\GTM\Documents\Visual Studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\GTM\Documents\Visual Studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.Properties.Resources.resources
+C:\Users\GTM\Documents\Visual Studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.csproj.GenerateResource.Cache
+C:\Users\GTM\Documents\Visual Studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\GTM\Documents\Visual Studio 2015\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
+G:\Semih_Projects\Matrix\Matrix\bin\Debug\Matrix.exe.config
+G:\Semih_Projects\Matrix\Matrix\obj\Debug\Matrix.exe
+G:\Semih_Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
+G:\Semih_Projects\Matrix\Matrix\bin\Debug\Matrix.exe
+G:\Semih_Projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+G:\Semih_Projects\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+G:\Semih_Projects\Matrix\Matrix\obj\Debug\Matrix.Properties.Resources.resources
+G:\Semih_Projects\Matrix\Matrix\obj\Debug\Matrix.csproj.GenerateResource.Cache
